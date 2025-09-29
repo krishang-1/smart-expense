@@ -84,8 +84,6 @@ smart-expense/
 ├─ vectorizer.pkl     # Saved TF-IDF vectorizer
 └─ README.md
 ```
-
----
 ---
 
 ## License
