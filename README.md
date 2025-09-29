@@ -86,15 +86,6 @@ smart-expense/
 ```
 
 ---
-
-## Contributing
-
-Contributions are welcome! You can:
-
-- Add more categories
-- Improve ML accuracy with more data or advanced models
-- Implement a GUI or web interface
-
 ---
 
 ## License
